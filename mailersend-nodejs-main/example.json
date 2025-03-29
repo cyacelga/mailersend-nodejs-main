@@ -1,0 +1,8 @@
+{
+    "to": "CORREO",
+    "name": "NOMBRE",
+    "from": "CORREO_FROM",
+    "fromName": "TITULO",
+    "subject": "Mailersend test",
+    "templateId": "TEMPLATE_ID_MAILERSEND"
+  }  
